@@ -1,15 +1,23 @@
 # SMI Notice!
 This is a fork of the Twitter/Bootstrap project @2.0.4.  Project-specific customizations must not go into this repository, the customizations here will affect all sites using this library.
 
-To **pull from the current stable version** of this repo use:
+#### To **pull from the development version** of this repo use:
 `
-git clone https://github.com/Strathcom/bootstrap/tarball/v2.0.4-smi-1.0.0
+$ git clone https://github.com/Strathcom/bootstrap.git
 `
 
-To include this a **submodule** in your existing project do:
+#### To use the **latest stable release** do:
 `
-git submodule add https://github.com/Strathcom/bootstrap/tarball/v2.0.4-smi-1.0.0
+$ git clone https://github.com/Strathcom/bootstrap.git
+$ git checkout v2.0.4-smi-1.0.0
 `
+**Note**: you will not be able to commit changes against a tagged release.
+
+#### To include this a **submodule** in your existing project do:
+`
+$ git submodule add https://github.com/Strathcom/bootstrap.git
+`
+
 Have a nice day :)
 
 [Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
