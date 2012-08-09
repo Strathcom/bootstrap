@@ -1,3 +1,9 @@
+# SMI Notice!
+Project-specific customizations must not go into this repository, the customizations here will affect all sites using this library.
+
+You've been warned.
+
+
 [Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 =================
 
