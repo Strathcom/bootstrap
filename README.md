@@ -1,5 +1,5 @@
 # SMI Notice!
-Project-specific customizations must not go into this repository, the customizations here will affect all sites using this library.
+This is a fork of the Twitter/Bootstrap project @2.0.4.  Project-specific customizations must not go into this repository, the customizations here will affect all sites using this library.
 
 You've been warned.
 
