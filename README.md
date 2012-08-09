@@ -2,21 +2,21 @@
 This is a fork of the Twitter/Bootstrap project @2.0.4.  Project-specific customizations must not go into this repository, the customizations here will affect all sites using this library.
 
 #### To **pull from the development version** of this repo use:
-`
-$ git clone https://github.com/Strathcom/bootstrap.git
-`
+
+    $ git clone https://github.com/Strathcom/bootstrap.git
+
 
 #### To use the **latest stable release** do:
-`
-$ git clone https://github.com/Strathcom/bootstrap.git
-$ git checkout v2.0.4-smi-1.0.0
-`
+
+    $ git clone https://github.com/Strathcom/bootstrap.git
+    $ git checkout v2.0.4-smi-1.0.0
+
 **Note**: you will not be able to commit changes against a tagged release.
 
 #### To include this a **submodule** in your existing project do:
-`
-$ git submodule add https://github.com/Strathcom/bootstrap.git
-`
+
+    $ git submodule add https://github.com/Strathcom/bootstrap.git <project>/static/lib
+
 
 Have a nice day :)
 
